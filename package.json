@@ -1,6 +1,6 @@
 {
   "name": "@shiftkey/prebuild-install",
-  "version": "6.0.1-pre",
+  "version": "6.0.1-pre2",
   "description": "A command line tool to easily install prebuilt binaries for multiple version of node/iojs on a specific platform",
   "scripts": {
     "test": "tape test/*-test.js && npm run lint",
